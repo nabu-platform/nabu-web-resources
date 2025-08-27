@@ -14,9 +14,5 @@
 			<groupId>nabu.web</groupId>
 			<artifactId>application</artifactId>
 		</dependency>
-		<dependency>
-			<groupId>nabu.web</groupId>
-			<artifactId>component</artifactId>
-		</dependency>
 	</dependencies>
 </project>
